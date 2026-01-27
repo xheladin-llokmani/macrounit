@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="css/bootstrap-4.3.1.css" rel="stylesheet" type="text/css">
+</head>
+<hr>
+
+	
+	
+	
+	
+<body>
+<header>
+  <h1 style="color: #B72528">Ministry of Finance</h1>
+</header>
+	<hr>
+<header>
+  <h2>Department for Macroeconomic Policy</h2>
+</header>
+<header>
+  <h3>Unit for Macroeconomic Models and Projections</h3>
+	<div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+  <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+    <button type="button" class="btn btn-secondary">Button 1</button>
+    <button type="button" class="btn-secondary">Button 2</button>
+    <div class="btn-group" role="group">
+      <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Dropdown </button>
+      <div class="dropdown-menu"> <a class="dropdown-item" href="#">Dropdown link 1</a> <a class="dropdown-item" href="#">Dropdown link 2</a> </div>
+    </div>
+  </div>
+</div>
+</header>
+<hr>
+
+<div class="container-fluid">
+  <div class="container"></div>
+</div>
+
+
+<iframe width="1010" height="624" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMFru9gN-fP7-BWDcJwvpmyJYC-ouNfU-BOgluYFUweSaMbpj-wGkrKVBmuhzMUFFcFEWz5eAIRpsw/pubchart?oid=545719402&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMFru9gN-fP7-BWDcJwvpmyJYC-ouNfU-BOgluYFUweSaMbpj-wGkrKVBmuhzMUFFcFEWz5eAIRpsw/pubchart?oid=2139212301&amp;format=interactive"></iframe>/
+<hr>
+	
+<iframe width="1397" height="795" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMFru9gN-fP7-BWDcJwvpmyJYC-ouNfU-BOgluYFUweSaMbpj-wGkrKVBmuhzMUFFcFEWz5eAIRpsw/pubchart?oid=854237960&amp;format=interactive"></iframe>
+	
+	
+<hr>
+<iframe width="1087" height="781" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMFru9gN-fP7-BWDcJwvpmyJYC-ouNfU-BOgluYFUweSaMbpj-wGkrKVBmuhzMUFFcFEWz5eAIRpsw/pubchart?oid=1294174605&amp;format=interactive"></iframe>
+
+<hr>
+	
+<iframe width="879" height="544" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMFru9gN-fP7-BWDcJwvpmyJYC-ouNfU-BOgluYFUweSaMbpj-wGkrKVBmuhzMUFFcFEWz5eAIRpsw/pubchart?oid=1756535305&amp;format=interactive"></iframe>
+
+	<iframe width="1100" height="541" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMFru9gN-fP7-BWDcJwvpmyJYC-ouNfU-BOgluYFUweSaMbpj-wGkrKVBmuhzMUFFcFEWz5eAIRpsw/pubchart?oid=171662954&amp;format=interactive"></iframe>
+	
+	
+<hr>
+	
+<iframe width="1224" height="729" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMFru9gN-fP7-BWDcJwvpmyJYC-ouNfU-BOgluYFUweSaMbpj-wGkrKVBmuhzMUFFcFEWz5eAIRpsw/pubchart?oid=1022835438&amp;format=interactive"></iframe>
+	
+<hr>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap-4.3.1.js"></script>
+</body>
+</html>
